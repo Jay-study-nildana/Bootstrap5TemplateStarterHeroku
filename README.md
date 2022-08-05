@@ -2,7 +2,7 @@
 
 Note : This project was borrowed from my other repository, [available here](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/BootstrapForStudents/Bootstrap5/Bootstrap5TemplateStarter)
 
-Running here : https://starternasaapodreactjs.herokuapp.com/
+Running here : https://bootstrap5templatestarter.herokuapp.com/
 
 Another Note : I did this one windows. instead of 'touch command' (check references section), I simply created the files manually.
 
